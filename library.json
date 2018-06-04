@@ -1,0 +1,22 @@
+{
+    "name": "sha256_espidf",
+    "keywords": "sha256, c++, esp-idf",
+    "description": "A C++ class for using SHA256 in ESP32 IDF",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/infincia/sha256_espidf.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Stephen Oliver",
+        "email": "steve@infincia.com",
+        "url": "https://infincia.com",
+        "maintainer": true
+      }
+    ],
+    "version": "0.1.0",
+    "frameworks": "espidf",
+    "platforms": "espressif32"
+  }
